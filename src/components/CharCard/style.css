@@ -1,0 +1,35 @@
+li img{
+    width: 150px;
+}
+
+h2{
+    font-size: 16px;
+}
+
+p{
+    font-weight: 600;
+}
+
+li{
+    width: 220px;
+    height: 250px;
+    margin: 0;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.alive{
+    background-color: rgba(126, 228, 126, 0.438);
+    color: rgb(25, 139, 25);
+
+}
+
+.dead{
+    background-color: rgba(241, 107, 107, 0.418);
+    color: brown;
+}
+
+.unknown{
+    background-color: rgba(247, 247, 144, 0.418);
+    color: rgb(128, 128, 16);
+}
